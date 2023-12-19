@@ -39,6 +39,7 @@ Efficient app facilitating yoga class bookings: streamlined interface, class sel
 ## Screenshots
 
 ![Screenshot 2023-12-19 at 7 56 12 PM](https://github.com/psaini872/Moneyflex_Assigment/assets/95680839/6497ae71-644c-47ae-bbc0-58bb4179f2ea)
+![Screenshot 2023-12-19 at 10 11 48 PM](https://github.com/psaini872/Moneyflex_Assigment/assets/95680839/655f7bcb-16ff-4baa-869a-da41845da1ff)
 
 
 ## Authors
